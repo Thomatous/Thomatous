@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Thomatous/Thomatous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
+My name is Thomas and I am a software engineer currently employed in bioinformatics. I've graduated from the National Kapodistrian University of Athens with a computer science degree.
 
-Here are some ideas to get you started:
+### Interests and Hobbies
+My interests include (but are not limited to):
+- Maps & cartography 🗺️
+- UX/UI 📱
+- Literature (mostly fantasy and sci-fi) 📖
+- Cooking 🍳
+- Software development 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills and Expertise
+- Various web development technologies (Django, Vue, Laravel e.t.c.)
+- Python
+- Unit testing
+- Image processing 
+
+### Social Media Links
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-papathymiopoulos/)
