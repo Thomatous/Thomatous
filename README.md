@@ -19,8 +19,7 @@
 ═════════════════════════════════════════════════════════════════════════════════════
 ### Introduction
 
-My name is **Thomas** and I am a software engineer currently employed in bioinformatics.  
-I've graduated from the [National Kapodistrian University of Athens](https://en.uoa.gr/) with a computer science degree.
+My name is **Thomas** and I am a software engineer currently employed in bioinformatics. I've graduated from the [National Kapodistrian University of Athens](https://en.uoa.gr/) with a computer science degree. Here you will find my various software related projects.
 
 ═════════════════════════════════════════════════════════════════════════════════════
 ### Interests and Hobbies
@@ -30,7 +29,7 @@ My interests include (but are not limited to):
 - Literature (mostly fantasy and sci-fi) 📖
 - Cooking 🍳
 - Software development 👨‍💻
-- Drawing
+- Drawing ✏️
 
 ═════════════════════════════════════════════════════════════════════════════════════
 ### Skills and Expertise
